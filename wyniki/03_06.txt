@@ -1,0 +1,30 @@
+
+-------------DANE WIELOKĄTA-------------
+WIERZCHOŁEK 1: (0.000000, 0.000000)
+WIERZCHOŁEK 2: (0.000000, 5.000000)
+WIERZCHOŁEK 3: (1.000000, 1.000000)
+WIERZCHOŁEK 4: (5.000000, 0.000000)
+
+              Wielokąt nie jest wypukły.
+----------------------------------------
+
+------------------CZASY-----------------
+PUNKT : (2.500000, 2.500000)
+WYNIK ALGORYTMU 1: 0.000005
+WYNIK ALGORYTMU 2: 0.000007
+WYNIK ALGORYTMU 3: 0.000007
+----------------------------------------
+
+------------------CZASY-----------------
+PUNKT : (2.500000, 2.500000)
+WYNIK ALGORYTMU 1: BRAK
+WYNIK ALGORYTMU 2: BRAK
+WYNIK ALGORYTMU 3: BRAK
+----------------------------------------
+
+------------------CZASY-----------------
+PUNKT : (0.000000, 0.000000)
+WYNIK ALGORYTMU 1: BRAK
+WYNIK ALGORYTMU 2: BRAK
+WYNIK ALGORYTMU 3: BRAK
+----------------------------------------
